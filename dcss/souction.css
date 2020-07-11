@@ -5,10 +5,8 @@
 
 #caja{
     color de fondo: blanco;
-    acolchado: 20px;
-   
+    acolchado: 20px;  
 }
-
  
 h2{
     margen inferior: 30px;
@@ -16,7 +14,6 @@ h2{
     alinear texto: centro;
     color de fondo: blanco;
 }
-
 #highlight {
     color de fondo: gris;
     borde: 4px negro sólido;
