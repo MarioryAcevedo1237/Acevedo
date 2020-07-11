@@ -10,7 +10,7 @@
 }
 
  
-h2 {
+h2{
     margen inferior: 30px;
     relleno superior: 20px;
     alinear texto: centro;
@@ -27,7 +27,7 @@ h2 {
     flotar derecho;
     relleno: 10px 30px 10px 30px;
 }
-# highlight2 {
+#highlight2 {
     color de fondo: verde;
     borde: 4px negro sólido;
     tamaño de fuente: 24px;
@@ -37,7 +37,7 @@ h2 {
     flotar derecho;
     relleno: 10px 30px 10px 30px;
 }
-# highlight3 {
+#highlight3 {
      
     color de fondo: rosa;
     borde: 4px negro sólido;
@@ -51,7 +51,7 @@ h2 {
 
  
 
-# p1 {
+#p1 {
     acolchado: 60px 20px 10px 20px;
     borde: 3px sólido;
     tamaño de fuente: 18px;
@@ -61,7 +61,7 @@ h2 {
     estilo de fuente: cursiva;
   }
 
-# p2 {
+#p2 {
      acolchado: 60px 20px 10px 20px;
     borde: 3px sólido;
     tamaño de fuente: 18px;
@@ -71,7 +71,7 @@ h2 {
     estilo de fuente: cursiva;
     }
 
-# p3 {
+#p3 {
     acolchado: 60px 20px 10px 20px;
     borde: 3px sólido;
     tamaño de fuente: 18px;
